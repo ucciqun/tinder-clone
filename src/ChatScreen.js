@@ -13,10 +13,7 @@ const ChatScreen = () => {
     {
       name: "Tom Holland",
       image: "...",
-      message: "hey!"
-    },
-    {
-      message: "hey!"
+      message: "Whats up?"
     }
   ]);
   const handleSend = e => {
